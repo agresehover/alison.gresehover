@@ -1,2 +1,2 @@
 # My Personal Resume!
-* By Alison Gresehover *
+*By Alison Gresehover*
